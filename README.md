@@ -1,4 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/profile.gif' width='200"'>  
+<img align='left' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/profile.gif' width='180'>  
+<img align='right' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/tresh.gif' width='200'>  
 
 # BIO
 Web and desktop programmer with intermediate knowledge in frameworks and pure development, analyst, database developer 
