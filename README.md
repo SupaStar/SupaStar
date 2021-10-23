@@ -22,6 +22,7 @@ Web and desktop programmer with intermediate knowledge in frameworks and pure de
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/python.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/react.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/unity.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/vue.png' height='50px'>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
