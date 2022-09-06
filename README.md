@@ -28,4 +28,5 @@ Web and desktop programmer with intermediate knowledge in frameworks and pure de
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
 
+<div>
 <img style= align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=SupaStar&theme=dark&background=0d1117&stroke=1e7ffe&ring=1e7ffe&fire=1e7ffe&currStreakLabel=1e7ffe&hide_border=true' alt='Some of my work stats' /></div>
