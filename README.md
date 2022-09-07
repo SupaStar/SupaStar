@@ -1,11 +1,11 @@
 <img align='left' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/profile.gif' width='180'>  
 <img align='right' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/tresh.gif' width='200'>  
-
+<div align='center'>
 # BIO
 Web and desktop programmer with intermediate knowledge in frameworks and pure development, analyst, database developer 
 
 #### Contact me on Discord: ObedNoe22#0808
-
+</div>
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
