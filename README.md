@@ -4,7 +4,7 @@
 # BIO
 Web and desktop programmer with intermediate knowledge in frameworks and pure development, analyst, database developer 
 
-#### Contact me on Discord: ObedNoe22#0808
+#### Contact me on Discord: SupaStar#0808
 </div>
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
