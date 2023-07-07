@@ -29,10 +29,13 @@ Native iOS developer with expertise in SwiftUI and hybrid development using .NET
 </p>
 
 <h2 align="center">More of my skills</h2>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupaStar&show_icons=true&theme=dark)]
+<div align='center'>
+<img style= align='center' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupaStar&show_icons=true&theme=dark' alt='Skills'/>
+</div>
 
 <div align='center'>
-<img style= align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=SupaStar&theme=dark&background=0d1117&stroke=1e7ffe&ring=1e7ffe&fire=1e7ffe&currStreakLabel=1e7ffe&hide_border=true' alt='Some of my work stats' /></div>
+    <img style= align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=SupaStar&theme=dark&background=0d1117&stroke=1e7ffe&ring=1e7ffe&fire=1e7ffe&currStreakLabel=1e7ffe&hide_border=true' alt='Work Stats' />
+</div>
 
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
