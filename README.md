@@ -12,7 +12,7 @@ Native iOS developer with expertise in SwiftUI and hybrid development using .NET
 <p align="center">
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/swift.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/maui.png' height='50px'>
-    <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/ionic.png' height='50px'>
+  <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/ionic.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/angular.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/cpp.png' height='50px'>
   <img src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Skills/csharp.png' height='50px'>
