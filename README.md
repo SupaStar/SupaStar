@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/SupaStar/SupaStar/master/Images/tresh.gif' width='200'>  
 <div align='center'>
 # BIO
-Web and desktop programmer with intermediate knowledge in frameworks and pure development, analyst, database developer 
+Native iOS developer with expertise in SwiftUI and hybrid development using .NET MAUI and Ionic. Proficient in full-stack web development, with a strong understanding of databases and analysis. Passionate about creating innovative and user-friendly applications, I thrive in collaborative environments, leveraging my skills to deliver high-quality solutions. Constantly staying updated with the latest trends and technologies, I am dedicated to enhancing the user experience through seamless and efficient software development.
 
 #### Contact me on Discord: SupaStar#0808
 </div>
