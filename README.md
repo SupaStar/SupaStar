@@ -30,7 +30,7 @@ Native iOS developer with expertise in SwiftUI and hybrid development using .NET
 
 <h2 align="center">More of my skills</h2>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupaStar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupaStar&show_icons=true&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align='center'>
